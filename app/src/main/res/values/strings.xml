@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LoginApplication</string>
+    <string name="Usuario">Usuario</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="iniciarS">Iniciar sesión</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="Registrate">Regístrate.</string>
+    <string name="notienescuenta">¿No tienes una cuenta?</string>
+    <string name="confirmar_contrasenia">Confirmar contrasenia</string>
+    <string name="registrarse1">Registrarse</string>
+    <string name="si_tienes_cuenta">¿Ya tienes una cuenta?</string>
+    <string name="nombre_apellido">Nombre y Apellido</string>
+    <string name="correo">Correo</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="blanco" />
+</resources>
