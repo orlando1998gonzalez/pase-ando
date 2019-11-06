@@ -68,12 +68,8 @@ public class RegistrateActivity extends AppCompatActivity implements View.OnClic
         //final int edad = Integer.parseInt(edad.getText().toString());
 
 
-        final String aux1 = nombre+" "+correo+" "+contrasenia+""+"hahaha";
-
-
-
-
-        mTextViewBlanco.setText(aux1);
+        final String aux2 = nombre+" "+correo+" "+contrasenia+""+"hahaha";
+        mTextViewBlanco.setText(aux2);
 
     }
 }
